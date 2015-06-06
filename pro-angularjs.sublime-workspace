@@ -1,0 +1,1117 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ope",
+				"openEPC"
+			],
+			[
+				"op",
+				"openEPC"
+			],
+			[
+				"new",
+				"newRequest"
+			],
+			[
+				"is",
+				"isDisplayed"
+			],
+			[
+				"epc",
+				"epc_mock"
+			],
+			[
+				"ut",
+				"utils"
+			],
+			[
+				"ti",
+				"ticketStorage"
+			],
+			[
+				"tick",
+				"ticketStorage"
+			],
+			[
+				"Ti",
+				"TicketStorageFactory"
+			],
+			[
+				"toBe",
+				"toBeDefined"
+			],
+			[
+				"toB",
+				"toBeDefined"
+			],
+			[
+				"to",
+				"toBeFalsy"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"yu",
+				"youtechInitController"
+			],
+			[
+				"youtech",
+				"youtechInitController"
+			],
+			[
+				"youte",
+				"youtechInitController"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"compo",
+				"componentAsString"
+			],
+			[
+				"lo",
+				"logComponents"
+			],
+			[
+				"add",
+				"addMaterialToList"
+			],
+			[
+				"getI",
+				"getTicket"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"mate",
+				"material"
+			],
+			[
+				"compon",
+				"components"
+			],
+			[
+				"li",
+				"listeners"
+			],
+			[
+				"liste",
+				"listeners"
+			],
+			[
+				"list",
+				"listener"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"copmon",
+				"component"
+			],
+			[
+				"con",
+				"components"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"test",
+				"test-connect"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"pdf",
+				"pdfUrl"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"file",
+				"idFile"
+			],
+			[
+				"del",
+				"dealerId"
+			],
+			[
+				"dealer",
+				"dealerId"
+			],
+			[
+				"deale",
+				"dealerId"
+			],
+			[
+				"dea",
+				"dealerId"
+			],
+			[
+				"saveDealersh",
+				"saveDealershipShowroom"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"cn",
+				"content"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sat jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"installe",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package sy",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"mdl",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"date",
+				"Snippet: bs3-input-date"
+			],
+			[
+				"bro",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mardown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"link",
+				"Snippet: bs3-navbar-link"
+			],
+			[
+				"button",
+				"Snippet: bs3-button"
+			],
+			[
+				"snippet:bs3",
+				"Snippet: bs3-container"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"bowe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"br",
+				"View In Browser"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Hap",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"inst all",
+				"Package Control: Install Package"
+			],
+			[
+				"pretti",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/PRIVATE_PROJECT/study/pro-angularjs"
+	],
+	"file_history":
+	[
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/newRequest/newRequest.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/new_request/components/components.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/new_request/components/components.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/epc_mock/epc.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/newRequest/epc.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/newRequest/newRequest.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/newRequest/newRequest.components.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/dist/epc/epc.html",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/gulpfile_commons.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/index.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/gulpfile_test.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/dist/index.html",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/dist/css/youtech.css",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/protractor_headless.conf.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/gulpfile.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/new_request/vin_history/vin_history.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/protractor.conf.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/request/request.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/request/request.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/request/request.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/package.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/node_modules/protractor/bin/webdriver-manager",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/input.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/service/youtech-factory.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/youtech.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/request/list.jade",
+		"/C/Users/Alberto/Desktop/stacktrace.txt",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/new_request/summary/summary.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/new_request/communications/communications.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/translator/z_translation_it-it.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/dashboard/dashboard.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/dashboard/dashboard.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/bower.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/newRequest/newRequest.js",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/page.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/dist/js/app.js",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/unit/youtech.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/jade_includes/mixin.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/gulpfile_prod.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticketlist_en.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticketlist_it-it.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/unit/youtech.ticketStorage.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/components.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticket_0050568D7E7B1EE4A094F8160184ACA3.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticket_0050568D7E7B1EE4A09704C792EFECA3.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticket_0050568D7E7B1EE4A9C8B9E7F1588CA3.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticket_0050568D7E7B1EE4AEEDD8E5E1B36385.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticket_0050568D7E7B1EE4A9C5E22F2479ECA3.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticket_0050568D7E7B1EE4A09657C7EB08ECA3.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/backend/resources/ticket_0050568D01F81ED4BAA1F3B89CDBC0C1.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/dist/epc.html",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/epc_mock/epc.jade",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/unit/youtech.youtechInit.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/karma_headless.conf.coffee",
+		"/C/Users/Alberto/AppData/Roaming/Sublime Text 3/Packages/User/ducati-unit-test.sublime-build",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/karma.conf.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/dashboard/dashboard.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/dashboard/dashboard.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/newRequest/newReqBtnAssReq.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/newRequest/newReqBtnQualNot.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/request/request.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/components/new_request/new_request.spec.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/e2e/components/new_request/new_request.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/node_modules/jasmine-core/package.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/node_modules/jasmine-core/bower.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/karma.conf.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/karma_html/PhantomJS 1.9.8 (Windows 8)/index.html",
+		"/C/Users/Alberto/Downloads/newClaimWSRequest.schema.json",
+		"/C/Users/Alberto/Downloads/newClaimWSResponse.schema.json",
+		"/C/Ducati/git/kiton-fe-internal/.gitignore",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/unit/ticket_storage/ticket_storage.spec.coffee",
+		"/C/Users/Alberto/Desktop/ticket.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/unit/youtech.2.spec.coffee",
+		"/c/users/alberto/appdata/local/temp/ticket_storage.spec.js",
+		"/C/Dev/docs/Youtech/esempio claim request.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/bower_components/angular/.bower.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/app/components/http/date_convert/http_date_convert.coffee",
+		"/C/Users/Alberto/Downloads/request.json",
+		"/C/Users/Alberto/Desktop/signature omnia.html",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/karma-junit-reporter",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/bower_components/angular-dynamic-locale/karma.conf.js",
+		"/C/Ducati/git/rmi-merged/package.json",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/unit/karma.conf.coffee",
+		"/C/Ducati/git/ducati-ndcs-youtech-frontend/tests/unit/ticket_storage.spec.coffee",
+		"/C/FAAC/git/spo-frontend/gulpfile_prod.coffee",
+		"/C/FAAC/git/spo-frontend/gulpfile.coffee",
+		"/C/Omnia/git/omnia-webstorage/gulpfile.coffee",
+		"/C/Ducati/git/tab-communication-test/gulpfile.coffee",
+		"/C/Omnia/git/omnia-webstorage/package.json",
+		"/C/Ducati/git/tab-communication-test/package.json",
+		"/C/Ducati/git/tab-communication-test/.gitignore",
+		"/C/Omnia/git/omnia-webstorage/test/youtech.html",
+		"/C/Omnia/git/omnia-webstorage/test/js/storage.js",
+		"/C/Omnia/git/omnia-webstorage/test/epc.html",
+		"/C/Omnia/git/web-storage-demo/main.js",
+		"/C/Omnia/git/web-storage-demo/index.html",
+		"/C/Omnia/git/web-storage-demo/event.html",
+		"/C/Omnia/git/web-storage-demo/event.js",
+		"/C/Ducati/git/rmi-merged/dist/index.html",
+		"/C/Dev/ws/epc-youtech-snippet/youtech.html",
+		"/C/Ducati/git/rmi-merged/gulpfile.coffee",
+		"/C/Ducati/git/rmi-merged/backend/app.js",
+		"/C/Omnia/git/omnia-webstorage/src/storage.js",
+		"/C/Dev/ws/epc-youtech-snippet/epc.html",
+		"/C/Ducati/git/rmi-merged/dist/js/pvt.js",
+		"/C/Ducati/git/rmi-merged/app/components/pvt/http/errors/http_errors.coffee",
+		"/C/Ducati/git/rmi-merged/dist/js/maps/pvt.js.map",
+		"/C/Users/Alberto/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeCompile.sublime-settings",
+		"/C/Ducati/git/rmi-merged/app/index.jade",
+		"/C/Ducati/git/omnia-ng-auth/dist/omnia-auth.js",
+		"/C/Ducati/git/omnia-ng-auth/src/auth.coffee",
+		"/C/Omnia/git/omnia-webstorage/test/index.html",
+		"/C/Ducati/git/omnia-ng-auth/gulpfile.coffee",
+		"/C/Ducati/git/rmi-merged/gulpfile_commons.coffee",
+		"/C/Dev/ws/omnia-webstorage/omnia-webstorage.sublime-project",
+		"/C/Omnia/git/omnia-webstorage/src",
+		"/C/Ducati/git/omnia-ng-auth/package.json",
+		"/C/Dev/ws/omnia-auth/omnia-auth.sublime-workspace",
+		"/C/Dev/ws/omnia-auth/omnia-auth.sublime-project",
+		"/C/Users/Alberto/Downloads/mrpaddinput.xsd",
+		"/C/Ducati/git/rmi-merged/dist/youtech.html",
+		"/C/Ducati/git/rmi-merged/dist/epc.html",
+		"/C/Dev/ws/epc-youtech-snippet/package.json",
+		"/C/Dev/ws/epc-youtech-snippet/gulpfile_commons.coffee",
+		"/C/Dev/ws/epc-youtech-snippet/gulpfile.coffee",
+		"/C/Ducati/git/rmi-merged/app/components/commons/translator/z_translation_en.coffee",
+		"/C/Ducati/git/rmi-merged/app/components/pvt/pdfviewer/pdfviewer.coffee",
+		"/C/Ducati/git/rmi-merged/app/components/pvt/documents/partials/files.jade"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"",
+			"C:\\Ducati\\git\\rmi-merged\\dist",
+			"C:\\Ducati\\git\\rmi-merged\\app",
+			"C:\\Ducati\\git\\ducati-ndcs-rmi-fe\\app",
+			"C:\\Ducati\\git\\ducati-ndcs-survey-frontend\\app",
+			"",
+			"C:\\Ducati\\git\\ducati-ndcs-survey-frontend",
+			"",
+			"C:\\Users\\Alberto\\Dev\\workspaces\\CV\\cv-app\\app\\data"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"displa",
+			"displayed",
+			"epc",
+			":\n",
+			"hub",
+			"webdriver_update",
+			"'\n",
+			"libCss",
+			"lib.css",
+			"epc_mo",
+			"connect",
+			"backend",
+			"libCss",
+			"lib",
+			"table",
+			"th",
+			"Description",
+			"th",
+			"getTicketList",
+			"get",
+			"getter",
+			"ng-",
+			"refreshTicketList",
+			"getTicketList",
+			"refreshTicketList",
+			"search =",
+			"search",
+			"SEARCH\nSEARCH",
+			"SEARCH",
+			"SEARCH\nSEARCH",
+			"SEARCH",
+			"search",
+			"RESET",
+			"Reset",
+			"getDashboardTicketList",
+			"attachment",
+			"getDashboardTicketList",
+			"refreshDashboard",
+			"getDashboardTicketList",
+			"refreshDashboard",
+			"TicketListGetter",
+			"getDashboardTicketList",
+			"refreshDashboard",
+			"Ducati",
+			"DUCATI",
+			"SAVE",
+			"invia",
+			"watch",
+			"component",
+			"libJs",
+			"paths.libJs",
+			"TicketListConstant",
+			"bau",
+			"$http",
+			"Error",
+			"epc_mock",
+			"watch",
+			"openEpc",
+			"connect",
+			"epc",
+			"dist",
+			"openEpc",
+			"epc",
+			"epc_mock",
+			"index",
+			"templates",
+			"openEPC",
+			"factory",
+			"debgger",
+			"ticketStorage",
+			"Resizer",
+			"Storage",
+			"Factory",
+			"TicketStorage",
+			"Factory",
+			"angular",
+			"beforeAll",
+			"Resizer",
+			"factor",
+			"service",
+			"dev",
+			"e",
+			"connect",
+			"gulp",
+			"If I add a new request should appear on the dashboard",
+			"If I add a new request should appear among the requests",
+			"should execute the ",
+			"should execute the first, second, third and fourth step",
+			"debugger",
+			").",
+			"init",
+			"ctrl",
+			"YoutechInit",
+			"\nbeforeEach(angular.mock.inject(function($rootScope, $controller){\n        //c",
+			"'youtech",
+			"-.",
+			",\n",
+			"update_driver",
+			"e2e",
+			"test",
+			"webdriver_update",
+			"update",
+			"plu",
+			"source",
+			"\n    $window.epcApi = {}\n\n    $window.ecpApi.getComponentsBasket() {\n      return angular.toJson($scope.newRequest.components, true);\n    }",
+			"angular.toJson($scope.newRequest.components, true);",
+			"debugger",
+			"'\n",
+			"\n>",
+			"module",
+			"YoutechInit",
+			"module",
+			"youtec",
+			" angular.toJson($scope.newRequest.components, true);",
+			"claim",
+			"htmlReporter",
+			"launcher",
+			"    \n",
+			"$window",
+			"    \n",
+			"listene",
+			"getElementBdyId ",
+			"debugger",
+			"connect",
+			"backend",
+			"  backend\n",
+			"getLi",
+			"storage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"doc",
+			"body",
+			" ",
+			"",
+			"html",
+			":'$1'\\n",
+			"",
+			":",
+			":'$1'\\n",
+			":'$1'",
+			":",
+			"",
+			"001",
+			"\\",
+			"copy",
+			"/"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffee_compile_output":
+	{
+		"height": 130.0
+	},
+	"output.coffeecompile_output":
+	{
+		"height": 910.0
+	},
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 240.0
+	},
+	"pinned_build_system": "Packages/User/ducati-unit-test.sublime-build",
+	"project": "pro-angularjs.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"epc",
+				"epc_mock\\epc.jade"
+			],
+			[
+				"compon",
+				"app\\components\\new_request\\components\\components.coffee"
+			],
+			[
+				"request",
+				"app\\components\\request\\request.coffee"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"prohead",
+				"tests\\protractor_headless.conf.coffee"
+			],
+			[
+				"commons",
+				"gulpfile_commons.coffee"
+			],
+			[
+				"gulp",
+				"gulpfile.coffee"
+			],
+			[
+				"protraconf",
+				"tests\\protractor.conf.coffee"
+			],
+			[
+				"input",
+				"tests\\e2e\\input.coffee"
+			],
+			[
+				"list.ja",
+				"app\\components\\request\\list.jade"
+			],
+			[
+				"dashbo",
+				"app\\components\\dashboard\\dashboard.coffee"
+			],
+			[
+				"dash",
+				"app\\components\\dashboard\\dashboard.jade"
+			],
+			[
+				"communica",
+				"app\\components\\new_request\\communications\\communications.coffee"
+			],
+			[
+				"bowe",
+				"bower.json"
+			],
+			[
+				"compone",
+				"app\\components\\new_request\\components\\components.jade"
+			],
+			[
+				"gulpcomm",
+				"gulpfile_commons.coffee"
+			],
+			[
+				"gu",
+				"gulpfile.coffee"
+			],
+			[
+				"common",
+				"gulpfile_commons.coffee"
+			],
+			[
+				"app.js",
+				"dist\\js\\app.js"
+			],
+			[
+				"karmacon",
+				"tests\\karma.conf.coffee"
+			],
+			[
+				"karmaconf",
+				"tests\\karma.conf.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"dashspec",
+				"tests\\e2e\\dashboard\\dashboard.spec.coffee"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"gulpfile",
+				"gulpfile_commons.coffee"
+			],
+			[
+				"gulpfile_tes",
+				"gulpfile_test.coffee"
+			],
+			[
+				"componcoffe",
+				"app\\components\\new_request\\components\\components.coffee"
+			],
+			[
+				"componet.jade",
+				"app\\components\\new_request\\components\\components.jade"
+			],
+			[
+				"karma",
+				"karma.conf.coffee"
+			],
+			[
+				"you",
+				"app\\youtech.coffee"
+			],
+			[
+				"youtech.spe",
+				"tests\\unit\\youtech.spec.coffee"
+			],
+			[
+				"conf.coff",
+				"karma.conf.coffee"
+			],
+			[
+				"gulpfile_test",
+				"gulpfile_test.coffee"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"youtech.",
+				"app\\youtech.coffee"
+			],
+			[
+				"http_da",
+				"app\\components\\http\\date_convert\\http_date_convert.coffee"
+			],
+			[
+				"",
+				"tests\\unit\\karma.conf.coffee"
+			],
+			[
+				"kar",
+				"tests\\unit\\karma.conf.js"
+			],
+			[
+				"inde",
+				"rmi-merged\\dist\\index.html"
+			],
+			[
+				"y",
+				"omnia-webstorage\\test\\youtech.html"
+			],
+			[
+				"youte",
+				"epc-youtech-snippet\\youtech.html"
+			],
+			[
+				"stora",
+				"omnia-webstorage\\src\\storage.js"
+			],
+			[
+				"pdfview",
+				"app\\components\\pvt\\pdfviewer\\pdfviewer.coffee"
+			],
+			[
+				"document",
+				"app\\components\\pvt\\documents\\documents.jade"
+			],
+			[
+				"http",
+				"app\\components\\http\\errors\\http_errors.coffee"
+			],
+			[
+				"ecm",
+				"backend\\routes\\ecm.js"
+			],
+			[
+				"buid",
+				"app\\components\\building\\building.coffee"
+			],
+			[
+				"bui",
+				"app\\components\\building\\building.coffee"
+			],
+			[
+				"surve",
+				"app\\survey.coffee"
+			],
+			[
+				"suve",
+				"app\\survey.coffee"
+			],
+			[
+				"buil",
+				"app\\components\\building\\building.coffee"
+			],
+			[
+				"backendindex",
+				"backend\\routes\\index.js"
+			],
+			[
+				"build",
+				"app\\components\\building\\building.coffee"
+			],
+			[
+				"file",
+				"app\\components\\file_upload\\file_upload.coffee"
+			],
+			[
+				"file_",
+				"app\\components\\file_upload\\file_upload.coffee"
+			],
+			[
+				"upload",
+				"node_modules\\gulp-connect\\node_modules\\connect\\examples\\upload.js"
+			],
+			[
+				"widserviedit",
+				"app\\components\\company\\widg.service.edit.jade"
+			],
+			[
+				"widgservice",
+				"app\\components\\company\\widg.service.jade"
+			],
+			[
+				"widedit",
+				"app\\components\\company\\widg.showroom.edit.jade"
+			],
+			[
+				"wid",
+				"app\\components\\company\\widg.showroom.jade"
+			],
+			[
+				"z_",
+				"app\\components\\translator\\z_translation_en.coffee"
+			],
+			[
+				"show",
+				"app\\components\\company\\widg.showroom.jade"
+			],
+			[
+				"showroom",
+				"tests\\e2e\\company\\company.showroom.spec.coffee"
+			],
+			[
+				"dev/notes",
+				"C:\\Dev\\ws\\note\\Notes.md"
+			],
+			[
+				"we",
+				"scripts\\web-server.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kit",
+				"C:\\Dev\\ws\\horsa-kiton\\kiton.sublime-project"
+			],
+			[
+				"kiton",
+				"C:\\Dev\\ws\\horsa-kiton\\kiton.sublime-project"
+			],
+			[
+				"facc",
+				"C:\\Dev\\ws\\faac-spo-frontend-sublime\\faac-spo-frontend.sublime-project"
+			],
+			[
+				"surve",
+				"C:\\Dev\\ws\\suvey-test\\survey-frontend.sublime-project"
+			],
+			[
+				"youte",
+				"C:\\Dev\\ws\\ducati-ndcs-youtech-frontend\\youtech-frontend.sublime-project"
+			],
+			[
+				"sure",
+				"C:\\Dev\\ws\\suvey-test\\survey-frontend.sublime-project"
+			],
+			[
+				"",
+				"C:\\Dev\\ws\\ducati-ndcs-youtech-frontend\\youtech-frontend.sublime-project"
+			],
+			[
+				"faa",
+				"C:\\Dev\\ws\\faac-spo-frontend-sublime\\faac-spo-frontend.sublime-project"
+			],
+			[
+				"yuoute",
+				"C:\\Dev\\ws\\ducati-ndcs-youtech-frontend\\youtech-frontend.sublime-project"
+			],
+			[
+				"survey",
+				"C:\\Ducati\\git\\ducati-ndcs-survey-frontend\\survey-frontend.sublime-workspace"
+			],
+			[
+				"curricula",
+				"C:\\Users\\Alberto\\Dev\\workspaces\\curricula\\curricula.sublime-workspace"
+			],
+			[
+				"curr",
+				"C:\\Users\\Alberto\\Dev\\workspaces\\curricula\\app\\views\\curricula.sublime-workspace"
+			],
+			[
+				"curric",
+				"C:\\Users\\Alberto\\Dev\\workspaces\\curricula\\curricula.sublime-project"
+			],
+			[
+				"noe",
+				"C:\\Users\\Alberto\\Dev\\workspaces\\curricula\\note.sublime-workspace"
+			],
+			[
+				"js",
+				"C:\\Users\\Alberto\\Dev\\workspaces\\curricula\\js.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 672.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
