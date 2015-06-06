@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Forms</title>
+
+    <script src="bower_components/angular.js"></script>
+    <link rel="stylesheet" href="bower_components/bootstrap.css">
+    <link rel="stylesheet" href="bower_components/bootstrap-theme.css">
+    <script>angular.module("exampleApp", []).
+    controller("defaultCtrl", function($scope) {
+    	$scope.addUser = function (userDetails) {
+    		$scope.message  = userDetails.name + " ( " + userDetails.email + ") "
+    	}
+    }):
+
+
+    </script>
+</head>
+
+<body>
+It works!
+</body>
+
+</html>
