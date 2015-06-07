@@ -5,22 +5,50 @@
     <meta charset="UTF-8">
     <title>Forms</title>
 
-    <script src="bower_components/angular.js"></script>
-    <link rel="stylesheet" href="bower_components/bootstrap.css">
-    <link rel="stylesheet" href="bower_components/bootstrap-theme.css">
-    <script>angular.module("exampleApp", []).
+    <script src="../bower_components/angular.js"></script>
+    <link rel="stylesheet" href="../bower_components/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="http://localhost:8001/bower_components/dist/css/bootstrap-theme.css">
+
+    <script>
+    angular.module("exampleApp", []).
     controller("defaultCtrl", function($scope) {
-    	$scope.addUser = function (userDetails) {
-    		$scope.message  = userDetails.name + " ( " + userDetails.email + ") "
-    	}
-    }):
-
-
+        $scope.addUser = function(userDetails) {
+            $scope.message = userDetails.name + " ( " + userDetails.email + ") "
+        }
+    });
     </script>
 </head>
 
+<style>
+form .ng-invalid.ng-dirty {
+    background-color: lightpink;
+}
+form .ng-valid.ng-dirty {
+    background-color: lightgreen;
+}
+span .summary.ng-invalid {
+    color: red;
+    font-weight: bold;
+}
+span .summary.ng-valid {
+    color: green;
+}
+</style>
+
 <body>
-It works!
+    It works!!!
+
+    <div ng-cotroller="defaultCtrl" id="todoPanel" class="panel">
+        <form name="myForm" novalidate="" ngsubmit="addUser(newUser)"></form>
+        <div class="well">
+            <div class="form-groupt">
+                <label for="">Name:</label>
+                <input type="text" name="userName" required="" ng-model="newUser.name" class="form-control">
+            </div>
+        </div>
+    </div>
+
+
 </body>
 
 </html>
